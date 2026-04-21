@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FulcrumLib", "FulcrumLib\FulcrumLib.csproj", "{BCAC4700-5D42-97A1-85B3-32B7E434B278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FulcrumLib.Tests", "FulcrumLib.Tests\FulcrumLib.Tests.csproj", "{44C4F61F-ADFB-4641-825D-A8F153C43995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAC4700-5D42-97A1-85B3-32B7E434B278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAC4700-5D42-97A1-85B3-32B7E434B278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAC4700-5D42-97A1-85B3-32B7E434B278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAC4700-5D42-97A1-85B3-32B7E434B278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C4F61F-ADFB-4641-825D-A8F153C43995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C4F61F-ADFB-4641-825D-A8F153C43995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C4F61F-ADFB-4641-825D-A8F153C43995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C4F61F-ADFB-4641-825D-A8F153C43995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33FC5C72-12C6-4C09-867A-8BBB11686118}
+	EndGlobalSection
+EndGlobal
